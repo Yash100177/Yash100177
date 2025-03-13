@@ -14,7 +14,7 @@
 - 🛠️ **Tools:** Git, GitHub, VS Code  
 
 ### 📈 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash100177&show_icons=true&theme=radical)
 
 ---
 🌱 **Fun Fact:** I love problem-solving and exploring new technologies! 😃
