@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Engineering Student** at MNNIT Allahabad  
 💻 Learning **Web Development, AI, and Data Science**  
-🚀 Currently working on a **Movie Review App using TMDB API**  
+🚀 Currently working on my web platform: **CineCritic using TMDB API**  
 🔭 Interested in **Competitive Programming & Open Source**  
 📫 Reach me at [yashvirchaudhary100177@gmail.com]  
 
