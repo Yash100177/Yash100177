@@ -1,7 +1,7 @@
 # Hi there! I'm Yash Chaudhary  
 
 **Computer Science Engineering Student** at MNNIT Allahabad  
-Learning **Web Developmen** | Exploring **AI**
+Learning **Web Developmen**, Exploring **AI**
 Currently working on my web platform: **CineCritic using TMDB API**   
 Reach me at [yashvirchaudhary100177@gmail.com]  
 
